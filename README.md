@@ -5,5 +5,5 @@
 
 ## Preview del desafio finalizado
 
-<img src="">
-<img src="">
+<img src="https://github.com/XmauricioX/DIAGRAMA_RELACIONES_DB/blob/main/diagram1.PNG">
+<img src="https://github.com/XmauricioX/DIAGRAMA_RELACIONES_DB/blob/main/diagram2.PNG">
